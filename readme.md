@@ -10,7 +10,8 @@ There isn't any installation needed, simply download the HTML file and open it i
 If there are any issues you can email me or reach out to me on LinkdenIn
 
 ## Roadmap: 
-Last Update: 9.28.2021 (Launch) __
+Last Update: 9.28.2021 (Launch)
+
 Coming Soon: Mobile Responsive and more projects!  
 
 ## License information: 
