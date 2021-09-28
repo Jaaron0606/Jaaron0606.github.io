@@ -1,7 +1,7 @@
 # Portfolio 
 
 ## Description
-Portfolio using using HTML, CSS, bootstrap and Javascript  
+Portfolio using using HTML, CSS, and bootstrap  
  
 ## Installation
 There isn't any instalation needed, simply download the HTML file and open it in your browser. 
