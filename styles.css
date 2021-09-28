@@ -1,0 +1,120 @@
+body  {
+background-color: lightsteelblue;    
+}
+
+/* Photo of James */
+.img-item {
+    height: 20em;
+    width: auto;
+    border: thin black;
+    margin-top: 35px;
+    padding-left: 5%;
+}
+
+@media only screen and (max-width: 960px) {
+    .img-item {
+      height: 15em;
+    }
+    .name {
+        font-size: 55px;
+    }
+    .job {
+        font-size:45px;
+    }
+  }
+
+
+/* Logo */
+.dash1 {
+border-left: 1px solid grey;
+height: 30px;
+transform: rotate(5deg);
+margin-left: -10px;
+}
+
+.dash2 {
+border-left: 1px solid grey;
+height: 25px;
+margin-left: 2px;
+margin-top: 2px;
+}
+
+/* Navigation bar */
+.stay {
+    position: fixed;
+    background-color: lightsteelblue; 
+    z-index: 1;
+    left: 20px;
+    right: 20px
+    
+}
+
+/* Navigation link */
+.nav-link {
+    color: black;
+}
+
+.nav-link:active {
+    background-color: gray;
+}
+
+/* Home Section */
+.home-section  {
+    padding-top: 40px;
+}
+
+
+/* Name title */
+.name {
+    color: white;
+    border-bottom: solid black;
+    justify-content: left;
+    font-size: 80px;
+}
+
+.job {
+    color: black;
+    justify-content: center;
+    font-size: 60px;
+    
+}
+
+.card {
+    text-align: center;
+}
+/*Paragraph on the right side of page*/
+
+.bio  {
+ margin-top: 5%;
+}
+
+/* Home Section */
+.video-section  {
+    text-align: center;
+}
+
+
+/* About me title */
+.about-me-title {
+    text-align: center;
+}
+
+/* Projects title */
+.projects-title {
+    text-align: center;
+}
+
+/* Contact Me title */
+.contact-me-title {
+    text-align: center;
+}
+
+/* Contact Me elements */
+.contact-me-elements {
+    text-align: center;
+}
+
+.a-elements-contact-me {
+    text-decoration: none;
+    color:black;
+}
