@@ -4,22 +4,30 @@ background-color: lightsteelblue;
 
 /* Photo of James */
 .img-item {
-    height: 20em;
-    width: auto;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
     border: thin black;
-    margin-top: 35px;
+    margin-top: 50px;
     padding-left: 5%;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 768px) {
     .img-item {
-      height: 15em;
+      margin-top: 70px;
+      width: 100%;
     }
-    .name {
-        font-size: 55px;
+    .row-home {
+        display: block;
+        text-align: center;
     }
-    .job {
-        font-size:45px;
+    .bio{
+        padding-top: 100px;
+        width: 100%;
+    }
+    .youtube-vid {
+        width: 420px;
+        height: 250px;
     }
   }
 
@@ -60,7 +68,7 @@ margin-top: 2px;
 
 /* Home Section */
 .home-section  {
-    padding-top: 40px;
+    padding-top: 70px;
 }
 
 
@@ -69,13 +77,13 @@ margin-top: 2px;
     color: white;
     border-bottom: solid black;
     justify-content: left;
-    font-size: 80px;
+    font-size: 7vw;
 }
 
 .job {
     color: black;
     justify-content: center;
-    font-size: 60px;
+    font-size: 6vw;
     
 }
 
@@ -86,6 +94,8 @@ margin-top: 2px;
 
 .bio  {
  margin-top: 5%;
+ width: 100%;
+ height: auto;
 }
 
 /* Home Section */
