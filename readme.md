@@ -12,9 +12,7 @@ If there are any issues you can email me or reach out to me on LinkdenIn
 ## Roadmap: 
 Last Update: 10.4.2021 (Minor adjustments to CSS to make the Portfolio more mobile responsive)
 
-Coming Soon: Mobile Responsive and more projects!
-             Animations
-
+Coming Soon: Mobile Responsive and Animations.
 
 ## License information: 
 This project is licensed through MIT XPRO Web Development certificate course. 
