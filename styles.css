@@ -5,11 +5,15 @@ background-color: lightsteelblue;
 /* Photo of James */
 .img-item {
     width: 100%;
-    max-width: 400px;
+    max-width: 450px;
     height: auto;
     border: thin black;
     margin-top: 50px;
     padding-left: 5%;
+}
+
+.james-photo {
+    text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
